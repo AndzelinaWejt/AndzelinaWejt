@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndzelinaWejt
 - 👀 I’m interested in development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile projects
+- 💞️ I’m looking to collaborate on mobile application projects
 - 📫 How to reach me andzelina.wejt@softwarehut.com
 
 <!---
